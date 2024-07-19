@@ -1,2 +1,1 @@
-## Hello, my name is Thomas Stover and I welcome you to my GitHub. Please feel free to have a look around but first let me tell you a little about myself.
-## I am currently seeking full time employment as a Data Analyst either in or near Austin, Texas or as a remote position. I have a Bachelor's in Physics with certificates in both Data Analytics & Visualization as well as Business Foundations all from The University of Texas at Austin. 
+## Hello, my name is Thomas Stover and I welcome you to my GitHub.
